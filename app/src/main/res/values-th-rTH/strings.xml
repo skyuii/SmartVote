@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Vote</string>
+    <string name="countdown">นับถอยหลังวันเลือตั้ง</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="minute">นาที</string>
+    <string name="seconds">วินาที</string>
+    <string name="days">วัน</string>
+    <string name="next_button">ถัดไป</string>
+
+</resources>
